@@ -1,0 +1,2922 @@
+[
+ {
+   "Concelho": "Área Metropolitana do Porto",
+   "Freguesia": "Área Metropolitana do Porto",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "827.864",
+   "D2021": "837.386"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "826.761",
+   "D2021": "836.643"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "826.101",
+   "D2021": "836.290"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "660",
+   "D2021": "353"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1.103",
+   "D2021": "743"
+ },
+ {
+   "Concelho": "Arouca",
+   "Freguesia": "Arouca",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "10.736",
+   "D2021": "11.170"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "10.715",
+   "D2021": "11.162"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "10.695",
+   "D2021": "11.157"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "20",
+   "D2021": "5"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "21",
+   "D2021": "8"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Alvarenga",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "848",
+   "D2021": "854"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "844",
+   "D2021": "853"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "840",
+   "D2021": "851"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "4",
+   "D2021": "2"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "4",
+   "D2021": "1"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Chave",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "639",
+   "D2021": "667"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "639",
+   "D2021": "666"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "639",
+   "D2021": "666"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "1"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Escariz",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "954",
+   "D2021": "993"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "954",
+   "D2021": "993"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "952",
+   "D2021": "993"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Fermedo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "667",
+   "D2021": "668"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "667",
+   "D2021": "668"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "666",
+   "D2021": "668"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Mansores",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "447",
+   "D2021": "483"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "446",
+   "D2021": "483"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "446",
+   "D2021": "483"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Moldes",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "600",
+   "D2021": "617"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "600",
+   "D2021": "617"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "599",
+   "D2021": "617"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Rossas",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "751",
+   "D2021": "772"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "751",
+   "D2021": "772"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "751",
+   "D2021": "771"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "1"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Santa Eulália",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "970",
+   "D2021": "1023"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "969",
+   "D2021": "1023"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "962",
+   "D2021": "1023"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "7",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "São Miguel do Mato",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "305",
+   "D2021": "298"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "303",
+   "D2021": "298"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "303",
+   "D2021": "298"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "2",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "Tropeço",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "537",
+   "D2021": "570"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "537",
+   "D2021": "570"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "537",
+   "D2021": "569"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "1"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Arouca e Burgo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.385",
+   "D2021": "2.534"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.376",
+   "D2021": "2.529"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.373",
+   "D2021": "2.528"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "3",
+   "D2021": "1"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "9",
+   "D2021": "5"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Cabreiros e Albergaria da Serra",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "173",
+   "D2021": "179"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "173",
+   "D2021": "179"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "173",
+   "D2021": "179"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Canelas e Espiunca",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "556",
+   "D2021": "592"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "555",
+   "D2021": "591"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "554",
+   "D2021": "591"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+ },
+ {
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Covelo de Paivó e Janarde",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "164",
+   "D2021": "164"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "164",
+   "D2021": "164"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "164",
+   "D2021": "164"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Urrô",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "509",
+   "D2021": "510"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "506",
+   "D2021": "510"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "506",
+   "D2021": "510"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "3",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Várzea",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "231",
+   "D2021": "246"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "231",
+   "D2021": "246"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "230",
+   "D2021": "246"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": "Espinho",
+   "Freguesia": "Concelho",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "15.778",
+   "D2021": "16.040"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "15.756",
+   "D2021": "16.030"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "15.753",
+   "D2021": "16.023"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "3",
+   "D2021": "7"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "22",
+   "D2021": "10"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Espinho",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "6.308",
+   "D2021": "6.399"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "6.292",
+   "D2021": "6.394"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "6.291",
+   "D2021": "6.387"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "7"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "16",
+   "D2021": "5"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Paramos",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.484",
+   "D2021": "1.496"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.482",
+   "D2021": "1.495"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.481",
+   "D2021": "1.495"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "2",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Silvalde",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.773",
+   "D2021": "2.865"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.771",
+   "D2021": "2.864"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.770",
+   "D2021": "2.864"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "2",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Anta e Guetim",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "5.213",
+   "D2021": "5.280"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "5.211",
+   "D2021": "5.277"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "5.211",
+   "D2021": "5.277"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "2",
+   "D2021": "3"
+},
+{
+   "Concelho": "Gondomar",
+   "Freguesia": "Concelho",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "73.473",
+   "D2021": "74.595"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "73.436",
+   "D2021": "74.560"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "73.416",
+   "D2021": "74.537"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "20",
+   "D2021": "23"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "37",
+   "D2021": "35"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Baguim do Monte (Rio Tinto)",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "6.278",
+   "D2021": "6.240"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "6.276",
+   "D2021": "6.235"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "6.276",
+   "D2021": "6.235"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "2",
+   "D2021": "5"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Lomba",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "775",
+   "D2021": "791"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "773",
+   "D2021": "790"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "773",
+   "D2021": "790"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "2",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Rio Tinto",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "23.855",
+   "D2021": "24.327"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "23.846",
+   "D2021": "24.319"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "23.844",
+   "D2021": "24.307"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "12"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "9",
+   "D2021": "8"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Fânzeres e São Pedro da Cova",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "16.607",
+   "D2021": "16.740"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "16.600",
+   "D2021": "16.736"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "16.585",
+   "D2021": "16.736"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "15",
+   "D2021": "2"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "7",
+   "D2021": "4"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Foz do Sousa e Covelo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.952",
+   "D2021": "3.049"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.951",
+   "D2021": "3.048"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.951",
+   "D2021": "3.044"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "4"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Gondomar (São Cosme), Valbom e Jovim",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "20.856",
+   "D2021": "21.214"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "20.841",
+   "D2021": "21.198"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "20.838",
+   "D2021": "21.196"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "3",
+   "D2021": "2"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "15",
+   "D2021": "16"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Melres e Medas",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.150",
+   "D2021": "2.234"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.149",
+   "D2021": "2.234"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.149",
+   "D2021": "2.231"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "3"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": "Maia",
+   "Freguesia": "Concelho",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "59.667",
+   "D2021": "59.707"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "59.614",
+   "D2021": "59.666"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "59.571",
+   "D2021": "59.631"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "43",
+   "D2021": "35"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "53",
+   "D2021": "41"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Águas Santas",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "12.176",
+   "D2021": "11.867"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "12.164",
+   "D2021": "11.860"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "12.143",
+   "D2021": "11.852"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "21",
+   "D2021": "8"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "12",
+   "D2021": "7"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Castêlo da Maia",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "7.755",
+   "D2021": "7.928"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "7.751",
+   "D2021": "7.927"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "7.745",
+   "D2021": "7.918"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "6",
+   "D2021": "9"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "4",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Cidade da Maia",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "17.474",
+   "D2021": "17.714"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "17.465",
+   "D2021": "17.707"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "17.460",
+   "D2021": "17.703"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "5",
+   "D2021": "4"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "9",
+   "D2021": "7"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Folgosa",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.540",
+   "D2021": "1.514"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.538",
+   "D2021": "1.513"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.538",
+   "D2021": "1.513"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "2",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Milheirós",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.992",
+   "D2021": "2.027"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.991",
+   "D2021": "2.024"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.991",
+   "D2021": "2.024"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "3"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Moreira",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "5.830",
+   "D2021": "5.834"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "5.823",
+   "D2021": "5.833"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "5.821",
+   "D2021": "5.833"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "7",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Nogueira e Silva Escura",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "3.383",
+   "D2021": "3.466"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "3.379",
+   "D2021": "3.462"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "3.375",
+   "D2021": "3.462"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "4",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "4",
+   "D2021": "4"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Pedrouços",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "6.208",
+   "D2021": "6.036"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "6.201",
+   "D2021": "6.029"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "6.199",
+   "D2021": "6.029"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "7",
+   "D2021": "7"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "São Pedro Fins",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "728",
+   "D2021": "712"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "727",
+   "D2021": "711"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "726",
+   "D2021": "711"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Vila Nova da Telha",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.581",
+   "D2021": "2.609"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.575",
+   "D2021": "2.600"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.573",
+   "D2021": "2.586"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "14"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "6",
+   "D2021": "9"
+},
+{
+   "Concelho": "Matosinhos",
+   "Freguesia": "Concelho",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "82.235",
+   "D2021": "82.331"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "82.155",
+   "D2021": "82.250"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "82.085",
+   "D2021": "82.246"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "70",
+   "D2021": "4"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "80",
+   "D2021": "81"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Custóias, Leça do Balio e Guifões",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "19.463",
+   "D2021": "19.334"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "19.448",
+   "D2021": "19.307"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "19.439",
+   "D2021": "19.307"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "9",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "15",
+   "D2021": "27"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Matosinhos e Leça da Palmeira",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "24.469",
+   "D2021": "24.642"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "24.432",
+   "D2021": "24.622"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "24.407",
+   "D2021": "24.621"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "25",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "37",
+   "D2021": "20"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Perafita, Lavra e Santa Cruz do Bispo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "13.021",
+   "D2021": "13.173"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "13.012",
+   "D2021": "13.151"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "12.987",
+   "D2021": "13.149"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "25",
+   "D2021": "2"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "9",
+   "D2021": "22"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de São Mamede de Infesta e Senhora da Hora",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "25.282",
+   "D2021": "25.182"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "25.263",
+   "D2021": "25.170"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "25.252",
+   "D2021": "25.169"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "11",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "19",
+   "D2021": "12"
+},
+{
+   "Concelho": "Oliveira de Azeméis",
+   "Freguesia": "Concelho",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "30.033",
+   "D2021": "30.666"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "30.016",
+   "D2021": "30.645"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "30.001",
+   "D2021": "30.645"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "15",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "17",
+   "D2021": "21"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Carregosa",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.640",
+   "D2021": "1.684"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.639",
+   "D2021": "1.684"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.638",
+   "D2021": "1.684"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Cesar"
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.420",
+   "D2021": "1.449"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.419",
+   "D2021": "1.448"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.419",
+   "D2021": "1.448"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Fajões",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.307",
+   "D2021": "1.335"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.306",
+   "D2021": "1.333"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.304",
+   "D2021": "1.333"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "2"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Loureiro",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.444",
+   "D2021": "1.571"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.444",
+   "D2021": "1.571"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.444",
+   "D2021": "1.571"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Macieira de Sarnes",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "863",
+   "D2021": "857"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "863",
+   "D2021": "857"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "862",
+   "D2021": "857"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Ossela",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "983",
+   "D2021": "1.002"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "983",
+   "D2021": "1.002"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "983",
+   "D2021": "1.002"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "São Martinho da Gândara",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "810",
+   "D2021": "810"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "810",
+   "D2021": "810"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "810",
+   "D2021": "810"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "São Roque",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.193",
+   "D2021": "2.241"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.192",
+   "D2021": "2.240"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.192",
+   "D2021": "2.240"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Nogueira do Cravo e Pindelo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.307",
+   "D2021": "2.352"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.307",
+   "D2021": "2.351"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.307",
+   "D2021": "2.351"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "9.342",
+   "D2021": "9.565"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "9.335",
+   "D2021": "9.956"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "9.331",
+   "D2021": "9.556"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "4",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "7",
+   "D2021": "9"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "3.117",
+   "D2021": "3.170"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "3.116",
+   "D2021": "3.168"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "3.114",
+   "D2021": "3.168"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "2"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Vila de Cucujães",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "4.607",
+   "D2021": "4.630"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "4.602",
+   "D2021": "4.625"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "4.597",
+   "D2021": "4.625"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "5",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "5",
+   "D2021": "5"
+},
+{
+   "Concelho": "Paredes",
+   "Freguesia": "Concelho",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "34.291",
+   "D2021": "36.139"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "36.274",
+   "D2021": "36.119"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "34.260",
+   "D2021": "36.086"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "14",
+   "D2021": "33"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "17",
+   "D2021": "20"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Aguiar de Sousa",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "650",
+   "D2021": "687"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "649",
+   "D2021": "687"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "649",
+   "D2021": "687"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Astromil",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "400",
+   "D2021": "437"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "400",
+   "D2021": "437"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "400",
+   "D2021": "437"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Baltar",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "2.044",
+   "D2021": "2.102"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "2.043",
+   "D2021": "2.101"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "2.040",
+   "D2021": "2.101"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "3",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Beire",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "739",
+   "D2021": "779"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "739",
+   "D2021": "778"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "739",
+   "D2021": "778"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Cete",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.316",
+   "D2021": "1.341"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.315",
+   "D2021": "1.341"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.315",
+   "D2021": "1.341"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Cristelo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "709",
+   "D2021": "767"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "709",
+   "D2021": "767"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "709",
+   "D2021": "767"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Duas Igrejas",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "1.366",
+   "D2021": "1.423
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "1.365",
+   "D2021": "1.422"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "1.365",
+   "D2021": "1.421"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "1"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Gandra",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "3.138",
+   "D2021": "3.311"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "3.137",
+   "D2021": "3.311"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "3.135",
+   "D2021": "3.308"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "2",
+   "D2021": "3"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Lordelo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "3.737",
+   "D2021": "3.958"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "3.734",
+   "D2021": "3.954"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "3.731",
+   "D2021": "3.954"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "3",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "3",
+   "D2021": "4"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Louredo",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "602",
+   "D2021": "610"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "602",
+   "D2021": "610"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "602",
+   "D2021": "610"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Parada de Toudeia",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "768",
+   "D2021": "794"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "768",
+   "D2021": "794"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "768",
+   "D2021": "792"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "2"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "0",
+   "D2021": "0"
+},
+{
+   "Concelho": " ",
+   "Freguesia": "Paredes",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "8.407",
+   "D2021": "8.984"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "8.403",
+   "D2021": "8.981"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "8.403",
+   "D2021": "8.961"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "0",
+   "D2021": "20"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "4",
+   "D2021": "3"
+}
+]
