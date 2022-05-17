@@ -1,0 +1,82 @@
+[
+{
+   "Concelho": "Área Metropolitana do Porto",
+   "Freguesia": "Área Metropolitana do Porto",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "827.864",
+   "D2021": "837.386"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "826.761",
+   "D2021": "836.643"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "826.101",
+   "D2021": "836.290"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "660",
+   "D2021": "353"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "1.103",
+   "D2021": "743"
+},
+{
+   "Concelho": "Arouca",
+   "Freguesia": "Arouca",
+   "TipoAlojamento": "Total",
+   "SubCategoria": "Total",
+   "D2011": "10.736",
+   "D2021": "11.170"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Familiares",
+   "SubCategoria": "Total",
+   "D2011": "10.715",
+   "D2021": "11.162"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Clássicos",
+   "D2011": "10.695",
+   "D2021": "11.157"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": " ",
+   "SubCategoria": "Não Clássicos",
+   "D2011": "20",
+   "D2021": "5"
+},
+{
+   "Concelho": " ",
+   "Freguesia": " ",
+   "TipoAlojamento": "Alojamentos Coletivos",
+   "SubCategoria": "Total",
+   "D2011": "21",
+   "D2021": "8"
+}
+]
